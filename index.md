@@ -6,9 +6,8 @@ Please check the links by clicking on them.
 
 [My Html File](https://bu-ie-360.github.io/spring24-furkancelen/IE360HW1.html) 
 
-[My Data Set](https://bu-ie-360.github.io/spring24-furkancelen/IE360HW1.md) 
+[My MD Document](https://bu-ie-360.github.io/spring24-furkancelen/IE360HW1.md) 
 
 
-[My MD Document](https://bu-ie-360.github.io/spring24-furkancelen/study_performance.csv) 
-
+[My Data Set](https://bu-ie-360.github.io/spring24-furkancelen/study_performance.csv) 
 
