@@ -6,4 +6,5 @@ Please check the links by clicking on them.
 
 [IE360 Project](https://bu-ie-360.github.io/spring24-furkancelen/IE360Project/IE360_project-final_form_report.html) 
 
+[IE360 HW2](https://bu-ie-360.github.io/spring24-furkancelen/IE360HW2/IE360hw2.html) 
 
